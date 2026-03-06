@@ -1,0 +1,48 @@
+@import '@nebular/theme/styles/prebuilt/default.css';
+@import '@nebular/theme/styles/prebuilt/dark.css';
+
+html, body {
+  margin: 0;
+  height: 100%;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 1.25rem;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+blockquote {
+  margin: 1.5rem 0;
+  padding: 1rem 1.5rem;
+  border-left: 4px solid #3366ff;
+  background: #f7f9fc;
+  font-style: italic;
+}
